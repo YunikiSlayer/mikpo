@@ -1,0 +1,9 @@
+type PostItem = {
+    version: 1
+    title: In Development
+    time: 69420
+    author: Banana
+    tags: Tag[]
+    description?: This server is in development and you probally wont see progress for a while.
+    meta?: unknown // (optional) user-defined meta information
+}
